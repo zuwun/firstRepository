@@ -20,6 +20,8 @@
     NSLog(@"this is first commit");
     
     NSLog(@"this is second commit");
+    
+    NSLog(@"this is three commit");
 
 }
 
